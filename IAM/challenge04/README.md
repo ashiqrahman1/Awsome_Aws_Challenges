@@ -2,7 +2,7 @@
 
 In this hands-on lab scenario, you are a security engineer working for a new startup that's launching an online bookstore for rare and antique books. The founder, Kia, needs your help with setting up her system administrators with the proper access permissions. In order to provide access and ensure the proper security measures are in place, you will use AWS Identity & Access Management (IAM) to define a system administrators group and set permissions boundaries.
 
-#### Lab Objective
+### Lab Objective
 
 Successfully complete this lab by achieving the following learning objectives:
 
